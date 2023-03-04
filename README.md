@@ -1,4 +1,4 @@
 # PROYECTO DUMMY
-## thsi is mi firts one page:
+## this is mi firts one page:
 - 
  
